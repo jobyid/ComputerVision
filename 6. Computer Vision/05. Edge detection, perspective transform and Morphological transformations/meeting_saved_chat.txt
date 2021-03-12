@@ -1,0 +1,2 @@
+09:28:36 From George Studenko to Everyone : https://docs.opencv.org/4.5.1/d4/d86/group__imgproc__filter.html#gac342a1bb6eabf6f55c803b09268e36dc
+09:49:43 From George Studenko to Everyone : https://gist.github.com/george-studenko/d09b5d1913441b38f842afb333568ba4
